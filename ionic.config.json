@@ -1,0 +1,16 @@
+{
+  "name": "Premifarm",
+  "appId": "com.premifarm.grower",
+  "integrations": {
+    "capacitor": {
+      "plugins": {
+        "LocalNotifications": {
+          "smallIcon": "ic_stat_icon_config_sample",
+          "iconColor": "#488AFF",
+          "sound": "beep.wav"
+        }
+      }
+    }
+  },
+  "type": "react"
+}

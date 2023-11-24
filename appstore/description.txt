@@ -1,0 +1,20 @@
+Premifarm App is a tool for monitoring and controlling Premifarm growers.
+
+3. Premifarm App key features: 
+- Connect to your grower
+- Create your own growing scenarios
+- Keep track of current mode
+- Control every floor separately
+
+PremiFarm is automated indoor vertical farm with integrated water and LED grow-lights powered aeroponics system. Our device allows You to grow your own sustainable food where you live, work and study.
+Lack of agricultural land and expensive food production due to increasing energy costs are the challenges vertical farms are solving. 
+
+With our vertical farm it is possible:
+* 		Grow microgreens, babyleaf, mature plants
+* 		Use linen mats or pots
+* 		Grow in clean water or nutrient solution with fertilizers
+* 		Harvest microgreens crops up to 60 kg per month
+Automation:
+* 		Each tier of the grower can be turned on and off independently from the others
+* 		Using the application, functions such as lighting, ventilation, solution preparation and watering are controlled.
+* 		Environmental sensors

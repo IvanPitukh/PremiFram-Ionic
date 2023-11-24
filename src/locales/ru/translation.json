@@ -1,0 +1,14 @@
+{
+  "translation": {
+    "onboardingPage": {
+      "slide1Title": "Соединитесь",
+      "slide2Title": "Установите",
+      "slide3Title": "Выращивайте",
+      "slide4Description": "Пожалуйста, подключите свой телефон к сети Wi-Fi фермы “ферма-XXXXXX”"
+    },
+    "appSetingsPage": {
+      "languageButtonTitle": "Язык",
+      "languageModalTitle": "Выберите язык"
+    }
+  }
+}

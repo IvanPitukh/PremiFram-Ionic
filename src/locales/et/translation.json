@@ -1,0 +1,237 @@
+{
+  "translation": {
+    "onboardingPage": {
+      "slide1Title": "Ühenda",
+      "slide1Description": "Palun ühenda oma mobiilseade <br/> farmi WiFi-ga “farm-XXXXXX”",
+      "slide1MainButton": "Järgmine",
+      "slide1SecondButton": "Jäta vahele",
+
+      "slide2Title": "Seadistamine",
+      "slide2Description": "Seadistage oma eelseadistused ja juhtige <br/> oma farmi rakenduses",
+      "slide2MainButton": "Järgmine",
+      "slide2SecondButton": "Jäta vahele",
+
+      "slide3Title": "Kasvatamine",
+      "slide3Description": "Jälgige oma taimede <br/> kasvamise edenemist ja etappe",
+      "slide3MainButton": "Valmis",
+      "slide3SecondButton": "Jäta vahele",
+
+      "slide4Description": "Palun ühendage oma mobiilseade <br/> farmi WiFi-ga “farm-XXXXXX”",
+      "slide4Subdescription": "XXXXXX on teie farmi seerianumber",
+      "slide4MainButton": "Ühenda",
+      "slide4CancelButton": "Tühista",
+      "slide4MainButtonLoading": "Ühendamine...",
+      "slide4SecondButton": "Demorežiim",
+      "slide4SecondButtonLoading": "Ühendamine...",
+      "slide4LoadingText": "Palun oodake, ühendamine...",
+
+      "errorTitle": "Ühenduse loomine ebaõnnestus",
+      "errorDescription": "Veenduge, et teie mobiilseade oleks <br/> ühendatud farmi WiFi-ga <br/> ja proovige uuesti",
+      "errorButton": "Tugi",
+      "dontShowTitle": "Ära näita"
+    },
+    "appSetingsPage": {
+      "languageButtonTitle": "Keel",
+      "languageModalTitle": "Vali keel"
+    },
+    "tapbar": {
+      "home": "Kodu",
+      "settings": "Seaded",
+      "help": "Abi"
+    },
+    "helpPage": {
+      "appBarDescription": "Küsimuste korral saatke meile e-kiri või võtke ühendust oma edasimüüjaga",
+      "aboutText": "We Farm Green OÜ",
+      "locationText": "Kaupmehe 19, Tallinn, Eesti",
+      "contactUsButton": "Võtke meiega ühendust",
+      "contactUsModal": {
+        "title": "Võtke meiega ühendust",
+
+        "fullNameLabel": "Täisnimi",
+        "fullNamePlaceholder": " Ees- ja perekonnanimi",
+
+        "phoneNumberLabel": " Telefoninumber",
+        "phoneNumberPlaceholder": "+123 456 789",
+
+        "emailLabel": "E-post",
+        "emailPlaceholder": "teiemail@näidis.com",
+
+        "messageLabel": "Teie sõnum",
+        "messagePlaceholder": " Sisestage oma sõnum siia...",
+
+        "confirmButton": "Saada",
+        "cancelButton": "Tühista",
+
+        "successTitle": " Aitäh sõnumi eest!",
+        "successDescription": "Pöördume teie poole niipea kui võimalik!",
+        "successButtonDone": "Valmis"
+      }
+    },
+    "settingsPage": {
+      "growerSettingsLink": "Seaded",
+      "setTimeLink": "Määra kellaaeg ja kuupäev",
+      "changeApiLink": "Muuda api url",
+      "goToObnoardingPageLink": "Mine avalehele",
+      "updateFirmwareLink": "Uuenda püsivara",
+      "languageButtonTitle": "Keel",
+      "languageModalTitle": "Vali keel"
+    },
+    "growerSettingsPage": {
+      "mixerSettingsLink": "Doseerimiseadme seadmed",
+      "backButton": "Mine tagasi"
+    },
+    "mixerSettingsPage": {
+      "phLevel": "pH tase",
+      "tdsLevel": "TDS tase",
+      "submitButton": "Määra pH & TDS tase",
+      "backButton": "Mine tagasi",
+      "toastError1": "pH tase min pikkus 1 number",
+      "toastError2": "pH tase max pikkus 2 numbrit",
+      "toastError3": "tds tase min pikkus 1 number",
+      "toastError4": "tds tase max pikkus 4 numbrit",
+      "toastSuccessServer": "Õnnestus",
+      "toastErrorServer": "Viga",
+
+      "phLevelModalTitle": "Valige ph tase",
+      "phLevelModalSubtitle": "Valitud",
+      "tdsLevelModalTitle": "Valige tds tase",
+      "tdsLevelModalSubtitle": "Valitud",
+      "mixerModalConfirm": "Valige",
+      "mixerModalCancel": "Tühista"
+    },
+    "timePage": {
+      "dateLabel": "Kuupäev",
+      "timeLabel": "Aeg",
+      "toastSuccessServer": "Aja määramine õnnestus",
+      "toastErrorServer": "Aja määramine ebaõnnestus",
+      "submitButton": " Määra kuupäev ja kellaaeg",
+      "backButton": "Mine tagasi",
+      "loadingModalTitle": "Palun oodake...",
+      "loadingModalDescription": "Kuupäeva ja kellaaja määramine"
+    },
+    "setApiPage": {
+      "setApiLabel": "API URL",
+      "submitButton": "Uuenda",
+      "backButton": "Mine tagasi",
+      "currentApiText": "Teie praegune api aadress"
+    },
+    "firmwarePage": {
+      "title": "Faili üleslaadimine",
+      "afterDownloadingFileMessage": "Nüüd peaks teile olema võimalus farmiga uuesti ühendus luua",
+      "toastSuccessServerDownload": "Edukalt salvestatud",
+      "toastErrorServerDownload": "Viga",
+      "toastSuccessServerUpload": "Edukalt üles laaditud",
+      "toastErrorServerUpload": "Viga",
+      "toastErrorServerUpload2": "Kõigepealt laadige alla fail ",
+      "submitButton": "Uuenda",
+      "backButton": "Mine tagasi",
+      "uploadingButtonText": "Üleslaadimine..."
+    },
+    "homePage": {
+      "disableWateringButton": "Katkestage kastmine 1-ks tunniks",
+      "stopAllFloorsButton": "Peata kõik korrused",
+      "stopWateringModal": {
+        "title": "Kastmine peatatakse 1-ks tunniks?",
+        "subTitle": "Te olete katkestamas kastmist 1-ks tunniks kõikidel korrustel.",
+        "description": "ÄRGE UNUSTAGE KORRUST VÄLJALÜLITADA KUI SAAGIKORISTUS ON LÕPULEVIIDUD!",
+        "confirmButton": "Jah, lõpeta kastmine",
+        "cancelButton": "Ei, jätka"
+      },
+      "stopAllFloorsModal": {
+        "title": "Peata kõik korrused?",
+        "subTitle": "Te olete katkestamas kõik korrused. Kõikide korruste praegune kasvu eelseadistused peatatakse",
+        "description": " Kas soovite jätkata?",
+        "confirmButton": "Jah, lõpeta kasvatamine",
+        "cancelButton": "Ei, jätka",
+        "toastSuccessTitle": "Kõik korrused on peatatud",
+        "toastError": "Viga kõigi korruste peatamisel"
+      },
+      "stopFloorModal": {
+        "title": "Katkesta korrus {{floorNumber}}?",
+        "subTitle": "Te olete katkestamas korrust. Praegune kasvu eelseadistus peatatakse",
+        "description": "Kas soovite jätkata?",
+        "confirmButton": "Jah, lõpeta kasvatamine",
+        "cancelButton": "Ei, jätka",
+        "toastSuccessTitle": "Korrused {{floorNumber}} on peatatud",
+        "toastError": "Viga korruse {{floorNumber}} peatamisel"
+      },
+      "turnOffFloorModal": {
+        "title": "Lülita korrus välja?",
+        "subTitle": "Te olete katkestamas korrust. Praegune kasvu eelseadistus peatatakse",
+        "description": "Kas soovite jätkata?",
+        "confirmButton": "Jah, lõpeta kasvatamine",
+        "cancelButton": "Ei, jätka",
+
+        "successSlideTitle": "Korrus on välja lülitatud",
+        "successSlideDescription1": "Palun eemaldage linane matt peale saagikoristust ja asetage kompostrisse või prügikasti",
+        "successSlideDescription2": "Puhastage alustaimejääkidest ja pühkige niiske pehme lapiga",
+        "successSlideDescription3": "Uuesti kasvatamise alustamiseks minge tagasi Kodu ekraanile ja lülitage sisse korrused",
+        "successSlideButton": "Valmis",
+
+        "loadingModalTitle": "Palun oodake...",
+        "loadingModalDescription": "Korruse väljalülitamine",
+
+        "toastSuccessTitle": "Korrus peatatud",
+        "toastError": "Viga"
+      },
+      "addDaysModal": {
+        "title": "Lisa päevade arv",
+        "subTitle": "Palun lisage kasvamise jätkamiseks lisapäevasid",
+        "description": "Kestus päevades",
+        "confirmButton": "Lisa päevade arv",
+        "cancelButton": "Tühista",
+        "toastSuccessTitle": "Edukalt lisatud {{days}} päeva",
+        "toastError": "Ootamatu viga. Palun, võtke meiega ühendust"
+      },
+      "startFloorModal": {
+        "title": "Alusta kasvatamist korrusel {{floorNumber}}?",
+        "subTitle": " Te olete käivitamas järgmist eelseadistust",
+        "lightOnAt": "Valgustus SEES alates",
+        "lightOffAt": "Valgustus VÄLJAS alates",
+        "watering": "Kastmine iga <b>{{minutes}} minuti järel</b> <b>{{seconds}} sekundit</b>",
+        "seedingPerion": "Külviperiood on",
+        "totalGrowingTime": "Kogu kasvuaeg",
+        "confirmButton": "Jah, alusta kasvatamist",
+        "cancelButton": "Ei, mine tagasi",
+        "toastSuccessTitle": "Korrus {{floorNumber}} käivitatud",
+        "toastError": "Viga korruse käivitamisel {{floorNumber}}"
+      },
+      "presetsModal": {
+        "title": "Valige eelseadistus",
+        "subTitle": "Valige eelseadistuse rakendamiseks {{floorNumber}} . korrus",
+        "confirmSelectButton": "Vali",
+        "cancelButton": "Tühista",
+        "selectedTitle": "Eelseadistuse teave",
+        "selectedSubtitle": "Te olete alustamas kasvatamist {{selectedValuei18n}}",
+        "selectedDescription": "Meie soovitatav seemnete kaal ühe korgi jaoks (300mm x 600mm) on {{seeds}}",
+        "selectedDescription2": "<b>Palun ärge unustage</b> eemaldada kate peale külviperioodi lõppu",
+        "backButton": "Tagasi",
+        "confirmButton": "Kinnita",
+        "toastSuccessTitle": "Eelseadistus {{selectedValuei18n}} valitud"
+      },
+      "flootItem": {
+        "levelName": "Tase",
+        "recipeTitle": "Eelseadistus",
+        "setTimeConfirmText": "Kinnita",
+        "setTimeCancelText": "Tühista",
+        "lightOnAt": "Valgustus SEES alates",
+        "lightOffAt": "Valgustus VÄLJAS alates",
+        "wateringInterval": "Kastmisintervall (min)",
+        "wateringDuration": "Kastmise kestus (sec)",
+        "seedingInDays": "Külviperiood päevades",
+        "totalDurationInDays": "Kogukestus päevades",
+        "startButton": "Alusta",
+        "addDaysButton": "Lisa päevade arv",
+        "turnOffButton": "Lülita välja",
+        "presetsButton": "Eelseaded",
+        "stopButton": "Lõpeta",
+        "status" : {
+          "Off": "Väljas",
+          "Seeding" :"Külvamine",
+          "Growing" : "Kasvav",
+          "Harvesting" : "Saagikoristus"
+        }
+      }
+    }
+  }
+}

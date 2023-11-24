@@ -1,0 +1,237 @@
+{
+  "translation": {
+    "onboardingPage": {
+      "slide1Title": "Connect",
+      "slide1Description": "Please connect your phone <br/> to the farm’s WiFi “farm-XXXXXX”",
+      "slide1MainButton": "Next",
+      "slide1SecondButton": "Skip",
+
+      "slide2Title": "Set up",
+      "slide2Description": "Set up your recipes and control <br/> your farm in the app",
+      "slide2MainButton": "Next",
+      "slide2SecondButton": "Skip",
+
+      "slide3Title": "Cultivate",
+      "slide3Description": "Follow the progress and stages <br/> of your plants’ growing",
+      "slide3MainButton": "Complete",
+      "slide3SecondButton": "Skip",
+
+      "slide4Description": "Please connect your phone to <br/> the farm’s WiFi “farm-XXXXXX”",
+      "slide4Subdescription": "XXXXXX is your farm’s serial number",
+      "slide4MainButton": "Connect",
+      "slide4CancelButton": "Cancel",
+      "slide4MainButtonLoading": "Connecting...",
+      "slide4SecondButton": "Demo mode",
+      "slide4SecondButtonLoading": "Connecting...",
+      "slide4LoadingText": "Please wait, connecting...",
+
+      "errorTitle": "Not able to connect",
+      "errorDescription": "Make sure your phone is <br/> connected to the farm’s WiFi <br/> and try again",
+      "errorButton": "Support",
+      "dontShowTitle": "Don’t show"
+    },
+    "appSetingsPage": {
+      "languageButtonTitle": "Language",
+      "languageModalTitle": "Select language"
+    },
+    "tapbar": {
+      "home": "Home",
+      "settings": "Settings",
+      "help": "Help"
+    },
+    "helpPage": {
+      "appBarDescription": "In case of any questions please write us an email or contact your distributor",
+      "aboutText": "We Farm Green Ltd",
+      "locationText": "Kaupmehe 19, Tallinn, Estonia",
+      "contactUsButton": "Contact us",
+      "contactUsModal": {
+        "title": "Contact us",
+
+        "fullNameLabel": "Full Name",
+        "fullNamePlaceholder": "First and Last Name",
+
+        "phoneNumberLabel": "Phone number",
+        "phoneNumberPlaceholder": "+123 456 789",
+
+        "emailLabel": "E-mail",
+        "emailPlaceholder": "yourmail@example.com",
+
+        "messageLabel": "Your message",
+        "messagePlaceholder": "Enter your message here...",
+
+        "confirmButton": "Send",
+        "cancelButton": "Cancel",
+
+        "successTitle": "Thank you for your message!",
+        "successDescription": "We will get back at you as soon as possible!",
+        "successButtonDone": "Done"
+      }
+    },
+    "settingsPage": {
+      "growerSettingsLink": "Grower settings",
+      "setTimeLink": "Set Time & Date",
+      "changeApiLink": "Change api url",
+      "goToObnoardingPageLink": "Go to start page",
+      "updateFirmwareLink": "Update firmware",
+      "languageButtonTitle": "Language",
+      "languageModalTitle": "Select language"
+    },
+    "growerSettingsPage": {
+      "mixerSettingsLink": "Dosing unit settings",
+      "backButton": "Go back"
+    },
+    "mixerSettingsPage": {
+      "phLevel": "pH level",
+      "tdsLevel": "TDS level",
+      "submitButton": "Set pH & TDS level",
+      "backButton": "Go back",
+      "toastError1": "pH level min length 1 digit",
+      "toastError2": "pH level max length 2 digit",
+      "toastError3": "tds level min length 1 digit",
+      "toastError4": "tds level max length 4 digit",
+      "toastSuccessServer": "Success",
+      "toastErrorServer": "Error",
+      
+      "phLevelModalTitle": "Select ph level",
+      "phLevelModalSubtitle": "Selected",
+      "tdsLevelModalTitle": "Select tds level",
+      "tdsLevelModalSubtitle": "Selected",
+      "mixerModalConfirm": "Select",
+      "mixerModalCancel": "Cancel"
+    },
+    "timePage": {
+      "dateLabel": "Date",
+      "timeLabel": "Time",
+      "toastSuccessServer": "Time set successfully",
+      "toastErrorServer": "Time set unsuccessfully",
+      "submitButton": "Set Date & Time",
+      "backButton": "Go back",
+      "loadingModalTitle": "Please wait...",
+      "loadingModalDescription": "Setting Date & Time"
+    },
+    "setApiPage": {
+      "setApiLabel": "API URL",
+      "submitButton": "Update",
+      "backButton": "Go back",
+      "currentApiText": "Your current api adress"
+    },
+    "firmwarePage": {
+      "title": "Upload file",
+      "afterDownloadingFileMessage": "Now you should be able to re-connect to your farm",
+      "toastSuccessServerDownload": "Saved successfully",
+      "toastErrorServerDownload": "Error",
+      "toastSuccessServerUpload": "Uploaded successfully",
+      "toastErrorServerUpload": "Error",
+      "toastErrorServerUpload2": "Download file firstly",
+      "submitButton": "Update",
+      "backButton": "Go back",
+      "uploadingButtonText": "Uploading..."
+    },
+    "homePage": {
+      "disableWateringButton": "Disable watering for 1 hour",
+      "stopAllFloorsButton": "Stop all floors",
+      "stopWateringModal": {
+        "title": "Stop watering for 1 hour?",
+        "subTitle": "You are about to disable watering for 1 hour on all floors.",
+        "description": "DO NOT FORGET TO TURN OFF THE FLOOR AFTER HARVESTING IS COMPLETED!",
+        "confirmButton": "Yes, stop watering",
+        "cancelButton": "No, keep on"
+      },
+      "stopAllFloorsModal": {
+        "title": "Stop all floors?",
+        "subTitle": "You are about to disable all floors. The current growing recipe of all floors will be stopped",
+        "description": "Do you wish to proceed?",
+        "confirmButton": "Yes, stop growing",
+        "cancelButton": "No, keep on",
+        "toastSuccessTitle": "All floors disabled",
+        "toastError": "Error while disabling all floors"
+      },
+      "stopFloorModal": {
+        "title": "Stop the floor {{floorNumber}}?",
+        "subTitle": "You are about to disable the floor. The current growing recipe will be stopped",
+        "description": "Do you wish to proceed?",
+        "confirmButton": "Yes, stop growing",
+        "cancelButton": "No, keep on",
+        "toastSuccessTitle": "Floors {{floorNumber}} stopped",
+        "toastError": "Error while stopping the floor {{floorNumber}}"
+      },
+      "turnOffFloorModal": {
+        "title": "Turn off the floor?",
+        "subTitle": "You are about to disable the floor. The current growing recipe will be stopped",
+        "description": "Do you wish to proceed?",
+        "confirmButton": "Yes, stop growing",
+        "cancelButton": "No, keep on",
+
+        "successSlideTitle": "Floor is turned off",
+        "successSlideDescription1": "Please remove the linen mat after harvesting and place in the composter or bin",
+        "successSlideDescription2": "Clean the tray from plant residues and wipe with a damp soft cloth",
+        "successSlideDescription3": "To start growing again, go to Home screen and turn the floor on",
+        "successSlideButton": "Done",
+
+        "loadingModalTitle": "Please wait...",
+        "loadingModalDescription": "Switching the floor off",
+
+        "toastSuccessTitle": "Floor stopped",
+        "toastError": "Error"
+      },
+      "addDaysModal": {
+        "title": "Add days",
+        "subTitle": "Please add extra days to continue growing",
+        "description": "Duration in days",
+        "confirmButton": "Add days",
+        "cancelButton": "Cancel",
+        "toastSuccessTitle": "Successfuly added {{days}} days",
+        "toastError": "Unexpected error. Please, contact us"
+      },
+      "startFloorModal": {
+        "title": "Start growing on Floor {{floorNumber}}?",
+        "subTitle": "You are about to run the following recipe",
+        "lightOnAt": "Lighting ON at",
+        "lightOffAt": "Lighting OFF at",
+        "watering": "Watering every <b>{{minutes}} minutes</b> for <b>{{seconds}} seconds</b>",
+        "seedingPerion": "Seeding period is",
+        "totalGrowingTime": "Total growing time",
+        "confirmButton": "Yes, start growing",
+        "cancelButton": "No, go back",
+        "toastSuccessTitle": "Floor {{floorNumber}} started",
+        "toastError": "Error while starting the floor {{floorNumber}}"
+      },
+      "presetsModal": {
+        "title": "Select preset",
+        "subTitle": "Choose preset to apply to the {{floorNumber}} . floor",
+        "confirmSelectButton": "Select",
+        "cancelButton": "Cancel",
+        "selectedTitle": "Preset info",
+        "selectedSubtitle": "You are about to start growing {{selectedValuei18n}}",
+        "selectedDescription": "Our recommended weight of seeds for one cap (300mm x 600mm) is {{seeds}}",
+        "selectedDescription2": "<b>Please don’t forget</b> to remove the cover after seeding period is over",
+        "backButton": "Back",
+        "confirmButton": "Confirm",
+        "toastSuccessTitle": "Preset {{selectedValuei18n}} selected"
+      },
+      "flootItem": {
+        "levelName": "Level",
+        "recipeTitle": "Recipe",
+        "setTimeConfirmText": "Confirm",
+        "setTimeCancelText": "Cancel",
+        "lightOnAt": "Lights ON at",
+        "lightOffAt": "Lights OFF at",
+        "wateringInterval": "Watering Interval (min)",
+        "wateringDuration": "Watering duration (sec)",
+        "seedingInDays": "Seeding in days",
+        "totalDurationInDays": "Total duration in days",
+        "startButton": "Start",
+        "addDaysButton": "Add days",
+        "turnOffButton": "Turn off",
+        "presetsButton": "Presets",
+        "stopButton": "Stop",
+        "status" : {
+          "Off": "Off",
+          "Seeding" :"Seeding",
+          "Growing" : "Growing",
+          "Harvesting" : "Harvesting"
+        }
+      }
+    }
+  }
+}
